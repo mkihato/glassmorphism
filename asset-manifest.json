@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/github.io/glassmorphism.git/static/css/main.63ddb3f4.css",
+    "main.js": "/github.io/glassmorphism.git/static/js/main.b277d1c0.js",
+    "static/media/background.jpg": "/github.io/glassmorphism.git/static/media/background.7b1a30c057c9e83e1b99.jpg",
+    "index.html": "/github.io/glassmorphism.git/index.html",
+    "main.63ddb3f4.css.map": "/github.io/glassmorphism.git/static/css/main.63ddb3f4.css.map",
+    "main.b277d1c0.js.map": "/github.io/glassmorphism.git/static/js/main.b277d1c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63ddb3f4.css",
+    "static/js/main.b277d1c0.js"
+  ]
+}
